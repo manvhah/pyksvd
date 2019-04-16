@@ -14,7 +14,7 @@
 #include <omp.h>
 
 #include "debug.hpp"
-#include "../third-party/eigen/Eigen/Dense"
+#include "./../../eigen/Eigen/Dense"
 
 using namespace std;
 using namespace Eigen;
