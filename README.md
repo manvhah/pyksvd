@@ -14,10 +14,7 @@ Installation
 
 ### Installation
 
-Eigen library is part of the repository as submodule in `third-party`. You need to:
-
-1. Init the submodule `git submodule init` at the root of the repository.
-1. Update the submodule `git submodule update` at the root of the repository.
+Dependency on 'eigen' from eigen.tuxfamily.org, to be placed in `./../eigen`
 
 Then, the installation can be performed by running `python setup.py install`.
 
